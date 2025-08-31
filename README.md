@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanthiti Pinmolee
 ===========================================================================================================================================
 
-Software Developer
-------------------
-
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [thanthiti.pinmolee@gmail.com](mailto:thanthiti.pinmolee@gmail.com)
 * 🧠  I'm currently learning on Frontend Development to strengthen my skills as a Fullstack Developer.
